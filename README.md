@@ -58,12 +58,16 @@ You should have permissions to do this.
 typically this is /usr/local/bin/ (otherwise you must change /usr/local/bin to a directory which is in your PATH): 
 
 > sudo ln -s $(pwd)/bluues_cplx /usr/local/bin/bluues_cplx 
+
 > cp NanoShaper.mod  $(pwd)/pkg_nanoshaper_0.7.8/NanoShaper 
+
 > sudo ln -s $(pwd)/pkg_nanoshaper_0.7.8/NanoShaper /usr/local/bin/NanoShaper 
 
 (
 if also msms has been downloaded:
+
 > sudo ln -s $(pwd)/msms/msms.x86_64Linux2.2.6.1.staticgcc /usr/local/bin/msms 
+
 )
 
 ** EXAMPLE USAGE **
