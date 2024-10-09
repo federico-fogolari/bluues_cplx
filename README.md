@@ -8,9 +8,11 @@ The files and the instructions provided in this directory should be sufficient t
 - READ.ME - the file you are reading
 - bluues_cplx.c - this is the program
 - test/ - a directory containing the file pdb1ay7.pqr 
-- test.orig/ - a directory containing the file pdb1ay7.pqr and the output files obtained by running the commands:
+- test.orig.zip - which is a zip of the directory containing the file pdb1ay7.pqr and the output files obtained by running the commands:
 > bluues_cplx  pdb1ay7.pqr test_ns A B -ns test_ns_aux -srf -srfpot -pa 0.1
-> bluues_cplx  pdb1ay7.pqr test_msm A B -m test_msms_aux -srf -srfpot -pa 0.1
+> bluues_cplx  pdb1ay7.pqr test_msm A B -m test_msms_aux -pa 0.1 -lite
+or
+> ./clean_and_run.sh
 (see the description below)
 - NanoShaper.mod - utility file for NanoShaper installation
 
