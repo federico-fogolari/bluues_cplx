@@ -5,7 +5,7 @@ Electrostatic properties of molecular complexes
 
 The files and the instructions provided in this directory should be sufficient to install the program.
 
-- READ.ME - the file you are reading
+- README.md - the file you are reading
 - bluues_cplx.c - this is the program
 - test/ - a directory containing the file pdb1ay7.pqr 
 - test.orig.zip - which is a zip of the directory containing the file pdb1ay7.pqr and the output files obtained by running the commands:
