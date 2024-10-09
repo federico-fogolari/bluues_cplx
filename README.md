@@ -1,11 +1,11 @@
 # bluues_cplx
 Electrostatic properties of molecular complexes
 
-* FILES CONTAINED IN THIS REPOSITORY
+** FILES CONTAINED IN THIS REPOSITORY **
 
 The files and the instructions provided in this directory should be sufficient to install the program.
 
--- README.md - the file you are reading
+- README.md - the file you are reading
 - bluues_cplx.c - this is the program
 - test/ - a directory containing the file pdb1ay7.pqr 
 - test.orig.zip - which is a zip of the directory containing the file pdb1ay7.pqr and the output files obtained by running the commands:
@@ -16,7 +16,7 @@ or
 (see the description below)
 - NanoShaper.mod - utility file for NanoShaper installation
 
-* HOW TO INSTALL
+** HOW TO INSTALL **
 
 It is not mandatory, but it would be standard to unpack the file bluues_cplx.tgz in the directory /usr/local/src/
 You should have permissions to do this.
@@ -59,7 +59,7 @@ if also msms has been downloaded:
 > sudo ln -s $(pwd)/msms/msms.x86_64Linux2.2.6.1.staticgcc /usr/local/bin/msms 
 )
 
-* EXAMPLE USAGE
+** EXAMPLE USAGE **
 
 The directory test contains a pqr file relative to a molecular complex of chain A and chain B.
 
