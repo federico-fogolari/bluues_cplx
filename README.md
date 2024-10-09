@@ -30,14 +30,18 @@ You should have permissions to do this.
 > cd bluues_cplx
 
 3) get the surface generating program NanoShaper
+4) 
 > wget https://gitlab.iit.it/SDecherchi/nanoshaper/-/raw/Release-0.7.8/pkg_nanoshaper_0.7.8.tar.gz
+
 > tar xzvf pkg_nanoshaper_0.7.8.tar.gz
-> 
 
 (alternatively the surface generating program MSMS can be used:
 > mkdir msms
+
 > cd msms
+
 > wget https://ccsb.scripps.edu/msms/download/933/msms_i86_64Linux2_2.6.1.tar.gz -nc
+
 > tar zxvf msms_i86_64Linux2_2.6.1.tar.gz
 > cd ..
 )
