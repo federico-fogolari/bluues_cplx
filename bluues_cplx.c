@@ -1551,7 +1551,7 @@ void check_cmd_line(int argc, char *argv[], struct Flag_par *flag_par)
 	printf("-tcr x (use a test charge radius of x in A, 0.7 default)\n"); 
 	printf("-mr x (minimum atomic radius of x in A, 1.0 default. Lesser radii will be set to x A.)\n"); 
         printf("-s x (use a salt radius of x in A, 2.0 default)\n"); 
-	printf("-pd x (inner dielectric constant, 4.0 default)\n"); 
+	printf("-pd x (inner dielectric constant, 20.0 default)\n"); 
 	printf("-sd x (outer dielectric constant, 78.54 default)\n"); 
 	printf("-kp x (factor for Still formula, 4 default)\n"); 
 	printf("-i x (ionic strength (M), 0.15 default)\n"); 
