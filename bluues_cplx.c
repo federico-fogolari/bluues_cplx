@@ -1617,7 +1617,7 @@ void init_flag_par(struct Flag_par *flag_par)
 (*flag_par).inflate=0.0;
 (*flag_par).salt_radius=2.0;
 (*flag_par).ions=0.150;
-(*flag_par).pdie=4.0;
+(*flag_par).pdie=20.0;
 (*flag_par).sdie=78.54;
 (*flag_par).kp=4;
 (*flag_par).temp=298.15;
