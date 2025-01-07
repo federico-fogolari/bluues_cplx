@@ -1,5 +1,9 @@
 # bluues_cplx
 Electrostatic properties of molecular complexes
+Soler, M.A.; Yakout, R.B.A.; Ozkilinc, O.; Esposito, G.; Rocchia, W.; Klein, C.; Fogolari, F. 
+Bluues_cplx: Electrostatics at Protein–Protein and Protein–Ligand Interfaces. 
+Molecules 2025, 30, 159. 
+https://doi.org/10.3390/molecules30010159
 
 ** FILES CONTAINED IN THIS REPOSITORY **
 
